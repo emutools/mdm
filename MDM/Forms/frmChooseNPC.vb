@@ -153,10 +153,10 @@ Public Class frmChooseNPC
                     .txtArcaneRes.Text = CStr(Reader.GetInt64("resistance6")) ' arcane
 
                     'Flags Tab
-                    ChooseFlags(Reader.GetInt32("flags"), .clbFlags, False)
+                    ChooseFlags(Reader.GetInt32("unit_flags"), .clbFlags, False)
                     ChooseFlags(Reader.GetInt32("npcflag"), .clbNPCFlags, False)
                     ChooseFlags(Reader.GetInt32("dynamicflags"), .clbDynamicFlags, False)
-                    ChooseFlags(Reader.GetInt32("flag1"), .clbExtraFlags, False)
+                    ChooseFlags(Reader.GetInt32("type_flags"), .clbExtraFlags, False)
                     ChooseFlags(Reader.GetInt32("flags_extra"), .clbAttributeFlags, False)
                     ChooseFlags(Reader.GetInt32("mechanic_immune_mask"), .clbImmuneFlags, False)
 
