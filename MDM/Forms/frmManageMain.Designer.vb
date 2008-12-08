@@ -1172,7 +1172,7 @@ Label115.Text = "Required Spell Cast(s)"
 lblE195.AutoSize = true
 lblE195.Location = New System.Drawing.Point(56, 4)
 lblE195.Name = "lblE195"
-lblE195.Size = New System.Drawing.Size(95, 15)
+lblE195.Size = New System.Drawing.Size(94, 15)
 lblE195.TabIndex = 166
 lblE195.Text = "Objective Items:"
 '
@@ -1325,7 +1325,7 @@ lblE79.Text = "Entry ID:"
 lblE196.AutoSize = true
 lblE196.Location = New System.Drawing.Point(28, 14)
 lblE196.Name = "lblE196"
-lblE196.Size = New System.Drawing.Size(162, 15)
+lblE196.Size = New System.Drawing.Size(161, 15)
 lblE196.TabIndex = 192
 lblE196.Text = "Mob/GameObject Objective:"
 '
@@ -1415,7 +1415,7 @@ lblE142.Text = "#2:"
 lblE138.AutoSize = true
 lblE138.Location = New System.Drawing.Point(83, 7)
 lblE138.Name = "lblE138"
-lblE138.Size = New System.Drawing.Size(120, 15)
+lblE138.Size = New System.Drawing.Size(119, 15)
 lblE138.TabIndex = 161
 lblE138.Text = "Reputation Rewards:"
 '
@@ -1558,7 +1558,7 @@ Me.lblE173.Text = "Respawn Time:"
 Me.lblE9.AutoSize = true
 Me.lblE9.Location = New System.Drawing.Point(51, 17)
 Me.lblE9.Name = "lblE9"
-Me.lblE9.Size = New System.Drawing.Size(50, 14)
+Me.lblE9.Size = New System.Drawing.Size(49, 14)
 Me.lblE9.TabIndex = 19
 Me.lblE9.Text = "Faction:"
 '
@@ -1883,7 +1883,7 @@ Me.mtbNPCSlot1.Text = "0"
 Me.lblE164.AutoSize = true
 Me.lblE164.Location = New System.Drawing.Point(16, 27)
 Me.lblE164.Name = "lblE164"
-Me.lblE164.Size = New System.Drawing.Size(121, 14)
+Me.lblE164.Size = New System.Drawing.Size(120, 14)
 Me.lblE164.TabIndex = 67
 Me.lblE164.Text = "Left Hand Display ID:"
 '
@@ -4158,7 +4158,7 @@ Me.cmbItemStats.TabIndex = 69
 Me.lblE43.AutoSize = true
 Me.lblE43.Location = New System.Drawing.Point(136, 83)
 Me.lblE43.Name = "lblE43"
-Me.lblE43.Size = New System.Drawing.Size(65, 15)
+Me.lblE43.Size = New System.Drawing.Size(64, 15)
 Me.lblE43.TabIndex = 2
 Me.lblE43.Text = "Stat Value:"
 '
@@ -4167,7 +4167,7 @@ Me.lblE43.Text = "Stat Value:"
 Me.lblE42.AutoSize = true
 Me.lblE42.Location = New System.Drawing.Point(136, 52)
 Me.lblE42.Name = "lblE42"
-Me.lblE42.Size = New System.Drawing.Size(59, 15)
+Me.lblE42.Size = New System.Drawing.Size(58, 15)
 Me.lblE42.TabIndex = 1
 Me.lblE42.Text = "Stat Type:"
 '
@@ -4313,7 +4313,7 @@ Me.cmbItemDamageType.TabIndex = 71
 Me.lblE44.AutoSize = true
 Me.lblE44.Location = New System.Drawing.Point(51, 25)
 Me.lblE44.Name = "lblE44"
-Me.lblE44.Size = New System.Drawing.Size(82, 15)
+Me.lblE44.Size = New System.Drawing.Size(81, 15)
 Me.lblE44.TabIndex = 70
 Me.lblE44.Text = "Damage Type:"
 '
@@ -4689,7 +4689,7 @@ Me.cmbItemTrigger.TabIndex = 109
 Me.lblE58.AutoSize = true
 Me.lblE58.Location = New System.Drawing.Point(50, 52)
 Me.lblE58.Name = "lblE58"
-Me.lblE58.Size = New System.Drawing.Size(48, 15)
+Me.lblE58.Size = New System.Drawing.Size(47, 15)
 Me.lblE58.TabIndex = 108
 Me.lblE58.Text = "Trigger:"
 '
@@ -4833,7 +4833,7 @@ Me.cmbItemFactionStanding.TabIndex = 111
 Me.lblE70.AutoSize = true
 Me.lblE70.Location = New System.Drawing.Point(337, 48)
 Me.lblE70.Name = "lblE70"
-Me.lblE70.Size = New System.Drawing.Size(102, 15)
+Me.lblE70.Size = New System.Drawing.Size(101, 15)
 Me.lblE70.TabIndex = 110
 Me.lblE70.Text = "Faction Standing:"
 '
@@ -4842,7 +4842,7 @@ Me.lblE70.Text = "Faction Standing:"
 Me.lblE69.AutoSize = true
 Me.lblE69.Location = New System.Drawing.Point(338, 5)
 Me.lblE69.Name = "lblE69"
-Me.lblE69.Size = New System.Drawing.Size(51, 15)
+Me.lblE69.Size = New System.Drawing.Size(50, 15)
 Me.lblE69.TabIndex = 91
 Me.lblE69.Text = "Faction:"
 '
@@ -5127,7 +5127,7 @@ Me.txtItemText.TabIndex = 75
 Me.lblE76.AutoSize = true
 Me.lblE76.Location = New System.Drawing.Point(12, 72)
 Me.lblE76.Name = "lblE76"
-Me.lblE76.Size = New System.Drawing.Size(168, 15)
+Me.lblE76.Size = New System.Drawing.Size(165, 15)
 Me.lblE76.TabIndex = 74
 Me.lblE76.Text = "Description (Additional Text):"
 '
@@ -5219,7 +5219,7 @@ Me.Label133.Text = "Bag Family:"
 Me.Label132.AutoSize = true
 Me.Label132.Location = New System.Drawing.Point(286, 52)
 Me.Label132.Name = "Label132"
-Me.Label132.Size = New System.Drawing.Size(94, 15)
+Me.Label132.Size = New System.Drawing.Size(93, 15)
 Me.Label132.TabIndex = 137
 Me.Label132.Text = "Totem Category:"
 '
@@ -5245,7 +5245,7 @@ Me.cmbItemSheath.TabIndex = 135
 Me.lblE172.AutoSize = true
 Me.lblE172.Location = New System.Drawing.Point(10, 100)
 Me.lblE172.Name = "lblE172"
-Me.lblE172.Size = New System.Drawing.Size(129, 15)
+Me.lblE172.Size = New System.Drawing.Size(128, 15)
 Me.lblE172.TabIndex = 134
 Me.lblE172.Text = "Item Position (Visual):"
 '
@@ -5310,7 +5310,7 @@ Me.cmbItemInventory.TabIndex = 127
 Me.lblE71.AutoSize = true
 Me.lblE71.Location = New System.Drawing.Point(10, 6)
 Me.lblE71.Name = "lblE71"
-Me.lblE71.Size = New System.Drawing.Size(90, 15)
+Me.lblE71.Size = New System.Drawing.Size(89, 15)
 Me.lblE71.TabIndex = 126
 Me.lblE71.Text = "Inventory Type:"
 '
@@ -5403,7 +5403,7 @@ Me.mtbReqDisenchantSkill.TabIndex = 72
 Me.Label140.AutoSize = true
 Me.Label140.Location = New System.Drawing.Point(12, 105)
 Me.Label140.Name = "Label140"
-Me.Label140.Size = New System.Drawing.Size(59, 15)
+Me.Label140.Size = New System.Drawing.Size(58, 15)
 Me.Label140.TabIndex = 71
 Me.Label140.Text = "Duration:"
 '
@@ -5430,7 +5430,7 @@ Me.Label138.Text = "Script Name:"
 Me.Label137.AutoSize = true
 Me.Label137.Location = New System.Drawing.Point(12, 48)
 Me.Label137.Name = "Label137"
-Me.Label137.Size = New System.Drawing.Size(65, 15)
+Me.Label137.Size = New System.Drawing.Size(64, 15)
 Me.Label137.TabIndex = 68
 Me.Label137.Text = "Food Type:"
 '
@@ -6467,7 +6467,7 @@ Me.Label146.AutoSize = true
 Me.Label146.Font = New System.Drawing.Font("Calibri", 9.75!)
 Me.Label146.Location = New System.Drawing.Point(302, 31)
 Me.Label146.Name = "Label146"
-Me.Label146.Size = New System.Drawing.Size(127, 15)
+Me.Label146.Size = New System.Drawing.Size(126, 15)
 Me.Label146.TabIndex = 96
 Me.Label146.Text = "Pickpocketing Loot ID:"
 '
@@ -6580,7 +6580,7 @@ Me.Label147.AutoSize = true
 Me.Label147.Font = New System.Drawing.Font("Calibri", 9.25!)
 Me.Label147.Location = New System.Drawing.Point(86, 48)
 Me.Label147.Name = "Label147"
-Me.Label147.Size = New System.Drawing.Size(78, 15)
+Me.Label147.Size = New System.Drawing.Size(76, 15)
 Me.Label147.TabIndex = 14
 Me.Label147.Text = "Trainer Type:"
 '
@@ -6634,7 +6634,7 @@ Me.lblInhabitType.AutoSize = true
 Me.lblInhabitType.Font = New System.Drawing.Font("Calibri", 9.25!)
 Me.lblInhabitType.Location = New System.Drawing.Point(260, 87)
 Me.lblInhabitType.Name = "lblInhabitType"
-Me.lblInhabitType.Size = New System.Drawing.Size(78, 15)
+Me.lblInhabitType.Size = New System.Drawing.Size(77, 15)
 Me.lblInhabitType.TabIndex = 67
 Me.lblInhabitType.Text = "Inhabit Type:"
 '
@@ -6700,7 +6700,7 @@ Me.Label21.AutoSize = true
 Me.Label21.Font = New System.Drawing.Font("Calibri", 9.25!)
 Me.Label21.Location = New System.Drawing.Point(51, 8)
 Me.Label21.Name = "Label21"
-Me.Label21.Size = New System.Drawing.Size(51, 15)
+Me.Label21.Size = New System.Drawing.Size(50, 15)
 Me.Label21.TabIndex = 19
 Me.Label21.Text = "Faction:"
 '
@@ -6776,7 +6776,7 @@ Me.tabNPCOther.UseVisualStyleBackColor = true
 Me.lblMovementType.AutoSize = true
 Me.lblMovementType.Location = New System.Drawing.Point(313, 69)
 Me.lblMovementType.Name = "lblMovementType"
-Me.lblMovementType.Size = New System.Drawing.Size(95, 14)
+Me.lblMovementType.Size = New System.Drawing.Size(94, 14)
 Me.lblMovementType.TabIndex = 127
 Me.lblMovementType.Text = "Movement Type:"
 '
@@ -7042,7 +7042,7 @@ Me.Label51.AutoSize = true
 Me.Label51.Font = New System.Drawing.Font("Calibri", 9.25!)
 Me.Label51.Location = New System.Drawing.Point(6, 56)
 Me.Label51.Name = "Label51"
-Me.Label51.Size = New System.Drawing.Size(35, 15)
+Me.Label51.Size = New System.Drawing.Size(34, 15)
 Me.Label51.TabIndex = 7
 Me.Label51.Text = "Type:"
 '
@@ -7160,7 +7160,7 @@ Me.LinkLabel2.AutoSize = true
 Me.LinkLabel2.Font = New System.Drawing.Font("Calibri", 9.75!)
 Me.LinkLabel2.Location = New System.Drawing.Point(6, 243)
 Me.LinkLabel2.Name = "LinkLabel2"
-Me.LinkLabel2.Size = New System.Drawing.Size(175, 15)
+Me.LinkLabel2.Size = New System.Drawing.Size(174, 15)
 Me.LinkLabel2.TabIndex = 12
 Me.LinkLabel2.TabStop = true
 Me.LinkLabel2.Text = "http://www.mangosproject.org"
@@ -7201,7 +7201,7 @@ Me.LinkLabel1.AutoSize = true
 Me.LinkLabel1.Font = New System.Drawing.Font("Calibri", 9.75!)
 Me.LinkLabel1.Location = New System.Drawing.Point(8, 170)
 Me.LinkLabel1.Name = "LinkLabel1"
-Me.LinkLabel1.Size = New System.Drawing.Size(269, 15)
+Me.LinkLabel1.Size = New System.Drawing.Size(267, 15)
 Me.LinkLabel1.TabIndex = 8
 Me.LinkLabel1.TabStop = true
 Me.LinkLabel1.Text = "http://www.mangosdbmanager.wordpress.com/"
@@ -7242,7 +7242,7 @@ Me.Label5.AutoSize = true
 Me.Label5.Font = New System.Drawing.Font("Calibri", 11.25!, System.Drawing.FontStyle.Underline)
 Me.Label5.Location = New System.Drawing.Point(8, 195)
 Me.Label5.Name = "Label5"
-Me.Label5.Size = New System.Drawing.Size(125, 18)
+Me.Label5.Size = New System.Drawing.Size(124, 18)
 Me.Label5.TabIndex = 4
 Me.Label5.Text = "Other Information:"
 '
@@ -7262,7 +7262,7 @@ Me.Label3.AutoSize = true
 Me.Label3.Font = New System.Drawing.Font("Calibri", 11.25!, System.Drawing.FontStyle.Underline)
 Me.Label3.Location = New System.Drawing.Point(8, 108)
 Me.Label3.Name = "Label3"
-Me.Label3.Size = New System.Drawing.Size(60, 18)
+Me.Label3.Size = New System.Drawing.Size(59, 18)
 Me.Label3.TabIndex = 2
 Me.Label3.Text = "Version:"
 '
@@ -7295,7 +7295,7 @@ Me.tabMain.Controls.Add(Me.tabQuestEdit)
 Me.tabMain.Controls.Add(Me.tabLootEdit)
 Me.tabMain.Controls.Add(Me.tabLink)
 Me.tabMain.Font = New System.Drawing.Font("Calibri", 9.25!)
-Me.tabMain.Location = New System.Drawing.Point(9, -2)
+Me.tabMain.Location = New System.Drawing.Point(9, 3)
 Me.tabMain.Name = "tabMain"
 Me.tabMain.SelectedIndex = 0
 Me.tabMain.Size = New System.Drawing.Size(562, 546)
@@ -7459,7 +7459,7 @@ Me.txtQuestObjectives.TabIndex = 76
 Me.lblE95.AutoSize = true
 Me.lblE95.Location = New System.Drawing.Point(335, 84)
 Me.lblE95.Name = "lblE95"
-Me.lblE95.Size = New System.Drawing.Size(68, 15)
+Me.lblE95.Size = New System.Drawing.Size(67, 15)
 Me.lblE95.TabIndex = 75
 Me.lblE95.Text = "Objectives:"
 '
@@ -7477,7 +7477,7 @@ Me.txtQuestFinishText.TabIndex = 74
 Me.lblE94.AutoSize = true
 Me.lblE94.Location = New System.Drawing.Point(335, 8)
 Me.lblE94.Name = "lblE94"
-Me.lblE94.Size = New System.Drawing.Size(69, 15)
+Me.lblE94.Size = New System.Drawing.Size(68, 15)
 Me.lblE94.TabIndex = 73
 Me.lblE94.Text = "Finish Text:"
 '
@@ -7513,7 +7513,7 @@ Me.txtQuestCompText.TabIndex = 70
 Me.lblE92.AutoSize = true
 Me.lblE92.Location = New System.Drawing.Point(163, 8)
 Me.lblE92.Name = "lblE92"
-Me.lblE92.Size = New System.Drawing.Size(98, 15)
+Me.lblE92.Size = New System.Drawing.Size(96, 15)
 Me.lblE92.TabIndex = 69
 Me.lblE92.Text = "Completion Text:"
 '
@@ -7531,7 +7531,7 @@ Me.txtQuestDetails.TabIndex = 68
 Me.lblE91.AutoSize = true
 Me.lblE91.Location = New System.Drawing.Point(8, 53)
 Me.lblE91.Name = "lblE91"
-Me.lblE91.Size = New System.Drawing.Size(74, 15)
+Me.lblE91.Size = New System.Drawing.Size(73, 15)
 Me.lblE91.TabIndex = 67
 Me.lblE91.Text = "Description:"
 '
@@ -7644,7 +7644,7 @@ Me.lblQuestClasses.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
 Me.Label124.AutoSize = true
 Me.Label124.Location = New System.Drawing.Point(310, 55)
 Me.Label124.Name = "Label124"
-Me.Label124.Size = New System.Drawing.Size(68, 15)
+Me.Label124.Size = New System.Drawing.Size(67, 15)
 Me.Label124.TabIndex = 128
 Me.Label124.Text = "Skill Value:"
 '
@@ -7714,7 +7714,7 @@ Me.cmbMinRepFaction.TabIndex = 4
 Me.Label123.AutoSize = true
 Me.Label123.Location = New System.Drawing.Point(206, 51)
 Me.Label123.Name = "Label123"
-Me.Label123.Size = New System.Drawing.Size(41, 15)
+Me.Label123.Size = New System.Drawing.Size(40, 15)
 Me.Label123.TabIndex = 3
 Me.Label123.Text = "Value:"
 '
@@ -7723,7 +7723,7 @@ Me.Label123.Text = "Value:"
 Me.Label122.AutoSize = true
 Me.Label122.Location = New System.Drawing.Point(6, 53)
 Me.Label122.Name = "Label122"
-Me.Label122.Size = New System.Drawing.Size(167, 15)
+Me.Label122.Size = New System.Drawing.Size(165, 15)
 Me.Label122.TabIndex = 2
 Me.Label122.Text = "Minimum Reputation Faction"
 '
@@ -7732,7 +7732,7 @@ Me.Label122.Text = "Minimum Reputation Faction"
 Me.Label121.AutoSize = true
 Me.Label121.Location = New System.Drawing.Point(209, 95)
 Me.Label121.Name = "Label121"
-Me.Label121.Size = New System.Drawing.Size(41, 15)
+Me.Label121.Size = New System.Drawing.Size(40, 15)
 Me.Label121.TabIndex = 1
 Me.Label121.Text = "Value:"
 '
@@ -7741,7 +7741,7 @@ Me.Label121.Text = "Value:"
 Me.Label120.AutoSize = true
 Me.Label120.Location = New System.Drawing.Point(6, 95)
 Me.Label120.Name = "Label120"
-Me.Label120.Size = New System.Drawing.Size(169, 15)
+Me.Label120.Size = New System.Drawing.Size(167, 15)
 Me.Label120.TabIndex = 0
 Me.Label120.Text = "Maximum Reputation Faction"
 '
@@ -7887,7 +7887,7 @@ Me.cmbQuestObjFaction.TabIndex = 181
 Me.lbl129.AutoSize = true
 Me.lbl129.Location = New System.Drawing.Point(34, 135)
 Me.lbl129.Name = "lbl129"
-Me.lbl129.Size = New System.Drawing.Size(106, 15)
+Me.lbl129.Size = New System.Drawing.Size(104, 15)
 Me.lbl129.TabIndex = 180
 Me.lbl129.Text = "Objective Faction:"
 '
@@ -8276,7 +8276,7 @@ Me.mtbQuestMob1.Text = "0"
 Me.lblE128.AutoSize = true
 Me.lblE128.Location = New System.Drawing.Point(317, 14)
 Me.lblE128.Name = "lblE128"
-Me.lblE128.Size = New System.Drawing.Size(99, 15)
+Me.lblE128.Size = New System.Drawing.Size(97, 15)
 Me.lblE128.TabIndex = 147
 Me.lblE128.Text = "Objectives Texts:"
 '
@@ -9031,7 +9031,7 @@ Me.lblE192.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
 Me.lblE89.AutoSize = true
 Me.lblE89.Location = New System.Drawing.Point(171, 17)
 Me.lblE89.Name = "lblE89"
-Me.lblE89.Size = New System.Drawing.Size(35, 15)
+Me.lblE89.Size = New System.Drawing.Size(34, 15)
 Me.lblE89.TabIndex = 135
 Me.lblE89.Text = "Type:"
 '
@@ -9230,7 +9230,7 @@ Me.Label114.AutoSize = true
 Me.Label114.Font = New System.Drawing.Font("Calibri", 30!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Underline),System.Drawing.FontStyle))
 Me.Label114.Location = New System.Drawing.Point(10, 16)
 Me.Label114.Name = "Label114"
-Me.Label114.Size = New System.Drawing.Size(207, 49)
+Me.Label114.Size = New System.Drawing.Size(206, 49)
 Me.Label114.TabIndex = 25
 Me.Label114.Text = "Loot Editor"
 '
@@ -9275,7 +9275,7 @@ Me.radLLSkinning.UseVisualStyleBackColor = true
 Me.radLLProspecting.AutoSize = true
 Me.radLLProspecting.Location = New System.Drawing.Point(189, 38)
 Me.radLLProspecting.Name = "radLLProspecting"
-Me.radLLProspecting.Size = New System.Drawing.Size(90, 19)
+Me.radLLProspecting.Size = New System.Drawing.Size(89, 19)
 Me.radLLProspecting.TabIndex = 12
 Me.radLLProspecting.Text = "Prospecting"
 Me.radLLProspecting.UseVisualStyleBackColor = true
@@ -9285,7 +9285,7 @@ Me.radLLProspecting.UseVisualStyleBackColor = true
 Me.radLLPickPocketing.AutoSize = true
 Me.radLLPickPocketing.Location = New System.Drawing.Point(189, 15)
 Me.radLLPickPocketing.Name = "radLLPickPocketing"
-Me.radLLPickPocketing.Size = New System.Drawing.Size(101, 19)
+Me.radLLPickPocketing.Size = New System.Drawing.Size(100, 19)
 Me.radLLPickPocketing.TabIndex = 11
 Me.radLLPickPocketing.Text = "Pickpocketing"
 Me.radLLPickPocketing.UseVisualStyleBackColor = true
@@ -10222,7 +10222,7 @@ Me.tlpQuest.ToolTipTitle = "Note*"
 '
 Me.AutoScaleDimensions = New System.Drawing.SizeF(96!, 96!)
 Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi
-Me.ClientSize = New System.Drawing.Size(592, 556)
+Me.ClientSize = New System.Drawing.Size(584, 554)
 Me.Controls.Add(Me.tabMain)
 Me.Font = New System.Drawing.Font("Calibri", 8.25!)
 Me.Icon = CType(resources.GetObject("$this.Icon"),System.Drawing.Icon)
