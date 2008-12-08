@@ -10,7 +10,7 @@
 # Normal rules
 #
 
-*.sou
+*.suo
 
 Documents/*
 Archives/*
