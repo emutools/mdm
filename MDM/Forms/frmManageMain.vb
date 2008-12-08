@@ -916,7 +916,7 @@ Iteration:
         SQLRunner.Add("maxcount", CStr(nudUniqueCount.Value))
         SQLRunner.Add("Buyprice", CStr(glcItemBuy.GetValue()))
         SQLRunner.Add("Sellprice", CStr(glcItemSell.GetValue()))
-        SQLRunner.Add("InventoryType", ComboGet(cmbItemInventory))
+        SQLRunner.Add("InventoryType", CStr(cmbItemInventory.SelectedIndex))
         SQLRunner.Add("AllowableClass", lblItemClasses.Text)
         SQLRunner.Add("AllowableRace", lblItemRaces.Text)
         SQLRunner.Add("ItemLevel", CStr(nudItemLevel.Value))
